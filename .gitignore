@@ -1,0 +1,30 @@
+# Carpetas y archivos de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Carpetas de compilación
+bin/
+obj/
+
+# Paquetes NuGet
+packages/
+*.nupkg
+
+# Archivos de publicación
+*.publish.xml
+
+# Archivos de log
+*.log
+
+# Configuraciones temporales
+*.tmp
+*.cache
+*.pid
+*.svclog
+
+# Archivos del sistema
+Thumbs.db
+Desktop.ini
