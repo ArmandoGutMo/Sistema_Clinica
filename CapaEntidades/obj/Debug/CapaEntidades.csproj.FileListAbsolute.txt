@@ -1,0 +1,6 @@
+C:\Users\AdminSena\source\repos\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\AdminSena\source\repos\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\AdminSena\source\repos\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\AdminSena\source\repos\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\AdminSena\source\repos\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\AdminSena\source\repos\CapaEntidades\obj\Debug\CapaEntidades.pdb

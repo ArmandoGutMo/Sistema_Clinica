@@ -1,0 +1,14 @@
+C:\Users\AdminSena\source\repos\CapaLogicaNegocio\bin\x64\Debug\CapaLogicaNegocio.dll
+C:\Users\AdminSena\source\repos\CapaLogicaNegocio\bin\x64\Debug\CapaLogicaNegocio.pdb
+C:\Users\AdminSena\source\repos\CapaLogicaNegocio\bin\x64\Debug\CapaDatos.dll
+C:\Users\AdminSena\source\repos\CapaLogicaNegocio\bin\x64\Debug\CapaEntidades.dll
+C:\Users\AdminSena\source\repos\CapaLogicaNegocio\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\AdminSena\source\repos\CapaLogicaNegocio\bin\x64\Debug\CapaDatos.pdb
+C:\Users\AdminSena\source\repos\CapaLogicaNegocio\bin\x64\Debug\CapaDatos.dll.config
+C:\Users\AdminSena\source\repos\CapaLogicaNegocio\bin\x64\Debug\CapaEntidades.pdb
+C:\Users\AdminSena\source\repos\CapaLogicaNegocio\bin\x64\Debug\System.Data.SQLite.xml
+C:\Users\AdminSena\source\repos\CapaLogicaNegocio\obj\x64\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\AdminSena\source\repos\CapaLogicaNegocio\obj\x64\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\AdminSena\source\repos\CapaLogicaNegocio\obj\x64\Debug\CapaLogi.BF2FE080.Up2Date
+C:\Users\AdminSena\source\repos\CapaLogicaNegocio\obj\x64\Debug\CapaLogicaNegocio.dll
+C:\Users\AdminSena\source\repos\CapaLogicaNegocio\obj\x64\Debug\CapaLogicaNegocio.pdb
