@@ -139,7 +139,7 @@ $(function() {
     });
 
 });
-function fix_sidebar() {
+//function fix_sidebar() {
     //Make sure the body tag has the .fixed class
     if (!$("body").hasClass("fixed")) {
         return;
@@ -150,7 +150,7 @@ function fix_sidebar() {
         height: ($(window).height() - $(".header").height()) + "px",
         color: "rgba(0,0,0,0.2)"
     });
-}
+
 
 /*END DEMO*/
 $(window).load(function() {
