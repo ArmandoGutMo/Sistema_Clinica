@@ -36,6 +36,8 @@ namespace CapaPresentacion
             return Lista;
         }
 
+    
+
         private Paciente GetEntity()
         {
             Paciente objPaciente = new Paciente();

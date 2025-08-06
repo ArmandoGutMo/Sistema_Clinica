@@ -34,6 +34,8 @@ function sendDataAjax() {
     });
 }
 
+
+
 $(document).on('click', '.btn-edit', function (e) {
     e.preventDefault();
     var row = $(this).parent().parent()[0];
