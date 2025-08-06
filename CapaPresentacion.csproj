@@ -459,11 +459,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CapaEntidades\CapaEntidades.csproj">
+    <ProjectReference Include="CapaEntidades\CapaEntidades.csproj">
       <Project>{2d42c519-10fc-4336-83ce-763bbf4861ac}</Project>
       <Name>CapaEntidades</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CapaLogicaNegocio\CapaLogicaNegocio.csproj">
+    <ProjectReference Include="CapaLogicaNegocio\CapaLogicaNegocio.csproj">
       <Project>{50ec8dee-fcec-4f96-ac8b-c887f1a65e39}</Project>
       <Name>CapaLogicaNegocio</Name>
     </ProjectReference>
